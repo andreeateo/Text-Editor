@@ -12,7 +12,7 @@ A text-editor application with the following features:
 - *src*: project source code
 - *deps_src*: source file dependencies
 - *lib*: library dependencies
-- *test*: JUnit tests
+- *test*: **JUnit** tests
 - *test_cases*: test data files
 - *.project*: Eclipse project file
 - *.classpath*
